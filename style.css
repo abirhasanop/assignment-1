@@ -145,6 +145,63 @@ p{
     margin-top: 70px;
 }
 
+.about-me-sec {
+    margin-top: 100px;
+}
+
+
+.about-me-sec h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 52px;
+    margin-bottom: 65px;
+    text-align: center;
+}
+
+.team {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.team-member {
+    background: #fff;
+    margin: 15px;
+    width: 400px;
+    padding: 20px;
+    color: #8e8b8b;
+    border-radius: 15px;
+    box-shadow: 10px 10px 25px gray;
+    margin-bottom: 50px;
+}
+
+.team-member h3 {
+    color: tomato;
+    font-size: 26px;
+    margin-top: 50px;
+}
+
+.work {
+    color: rgb(182, 172, 172);
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 12px 0;
+}
+
+.team-img {
+    margin: 0 auto;
+    height: 90px;
+    /* border-radius: 50%; */
+    background: #fff;
+    width: 100px;
+}
+
+.team-img img {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border-radius: 50%;
+}
+
 .section6{
     text-align: center;
     margin-bottom: 100px;
@@ -181,3 +238,4 @@ footer h2{
     font-family: 'Dancing Script', cursive;
     color: white;
 }
+
