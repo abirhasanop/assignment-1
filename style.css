@@ -9,9 +9,7 @@ body{
     margin: 0px;
     padding: 0px;
 }
-html{
-    height: 100%;
-}
+
 .donate-now{
     text-decoration: none;
     background-image: linear-gradient(red, deeppink);
@@ -21,28 +19,12 @@ html{
     border-radius: 8px;
     cursor: pointer;
 }
-/* .section1{
-    height: 910px;
-    text-align: center;
-    background-image: url(donation0.jpg);
-    background-repeat: no-repeat;
-    margin-top: 0px;
-    opacity: 30%;
-    margin-bottom: 150px;
-    background-size: cover;
-}
-.sec1-h1{
-    margin: 0 auto;
-    margin-top: 500px;
-    margin-top: 50%;
-} */
 
 .section1{
     text-align: center;
     background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url(donation5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: top;
     opacity: 0.9;
     height: 550px;
     color: white;
@@ -51,7 +33,6 @@ html{
 
 h1{
     font-size: 70px;
-    /* color: white; */
 }
 p{
     opacity: 70%;
@@ -66,8 +47,6 @@ p{
 }
 .box{
     display: inline-block;
-    /* justify-content: center; */
-    /* align-items: center; */
     height: 180px;
     width: 180px;
     margin: 10px;
@@ -89,7 +68,6 @@ p{
 .section2 input{
     padding: 10px 150px;
     margin-top: 50px;
-    /* border: none; */
     border-top: none;
     border-left: none;
     border-right: none;
@@ -100,12 +78,12 @@ p{
 }
 .extra-part{
     margin: 0 auto;
-    height: 150px;
+    height: 120px;
     width: 75%;
     font-size: 25px;
     text-align: center;
     margin-top: 200px;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     font-family: 'Dancing Script', cursive;
     border-radius: 10px;
     box-shadow: inset 10px 5px 15px #cbced1,
@@ -120,9 +98,6 @@ p{
     margin-bottom: 100px;
 }
 
-/* .section3{
-
-} */
 .sec3-div1{
     text-align: center;
     margin-bottom: 70px;
@@ -171,7 +146,6 @@ p{
 }
 
 .section6{
-    /* align-items: center; */
     text-align: center;
     margin-bottom: 100px;
 }
@@ -187,7 +161,6 @@ p{
 .section6-div2 input{
     margin-top: 140px;
     padding: 15px 90px;
-    /* width: 300px; */
     background-color: beige;
     border: none;
     font-size: 14px;
